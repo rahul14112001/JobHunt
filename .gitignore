@@ -1,0 +1,26 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore log files
+*.log
+
+# # Ignore environment variable files
+# .env
+
+# Ignore temporary files
+tmp/
+temp/
+
+# Ignore build outputs
+dist/
+build/
+
+# Ignore IDE configurations (optional)
+.vscode/
+.idea/
+
+# Ignore coverage reports (if using testing frameworks)
+coverage/
+
+# Ignore other miscellaneous files
+.DS_Store  # macOS system files
